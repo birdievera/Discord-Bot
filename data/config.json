@@ -1,0 +1,242 @@
+﻿{
+  "DontJoinServers": false,
+  "ForwardMessages": true,
+  "ForwardToAllOwners": false,
+  "IsRotatingStatus": false,
+  "BufferSize": 4194304,
+  "RaceAnimals": [
+    "🐼",
+    "🐻",
+    "🐧",
+    "🐨",
+    "🐬",
+    "🐞",
+    "🦀",
+    "🦄"
+  ],
+  "RemindMessageFormat": "❗⏰**Hey, just reminding you to '%message%', %user%.**⏰❗",
+  "CustomReactions": {
+    "\\o\\": [
+      "/o/"
+    ],
+    "/o/": [
+      "\\o\\"
+    ],
+    "moveto": [
+      "(👉 ͡° ͜ʖ ͡°)👉 %target%",
+      "Lucio comin' at you %target%"
+    ],
+    "comeatmebro": [
+      "%target% (ง’̀-‘́)ง",
+      "https://media.giphy.com/media/LLSvEmWjj05j2/giphy-downsized-large.gif",
+      "https://gfycat.com/CooperativeImaginaryBluebird",
+      "http://elotalk.com/wp-content/uploads/2016/05/giphy-1-1.gif",
+      "https://gfycat.com/CooperativeImaginaryBluebird"
+    ],
+    "e": [
+      "%user% did it 😒 🔫",
+      "%target% did it 😒 🔫"
+    ],
+    "%mention% insult": [
+      "%target% You lost the beat.",
+      "%target% You havin' trouble keepin' up?",
+      "Not too excited about this arrangement with %target%.",
+      "%target% Stay outta Rio. That's my turf.",
+      "%target% I'm not hearing your noise.",
+      "Oh hey, you remember %target%? Me neither.",
+      "%target% You deserve a beat..down.",
+      "%target% Sorry, I can't give you the hook. I like you."
+    ],
+    "%mention% praise": [
+      "%target% Hah! You are too good.",
+      "%target% You're awesome!",
+      "%target% Can I get your autograph?",
+      "%target% I've got a song for a special person in the crowd tonight so let's up the tempo!",
+      "Move to the beat %target%! This is for you!",
+      "You nailed it %target%!",
+      "Hey, we're on the same wavelength %target%.",
+      "%target% How about we go out for pizza? It's on me.",
+      "%target% Let's create music together. ;)"
+    ],
+    "%mention% pat": [
+      "http://i.imgur.com/IiQwK12.gif",
+      "http://i.imgur.com/JCXj8yD.gif",
+      "http://i.imgur.com/qqBl2bm.gif",
+      "http://i.imgur.com/eOJlnwP.gif",
+      "https://45.media.tumblr.com/229ec0458891c4dcd847545c81e760a5/tumblr_mpfy232F4j1rxrpjzo1_r2_500.gif",
+      "https://media.giphy.com/media/KZQlfylo73AMU/giphy.gif",
+      "https://media.giphy.com/media/12hvLuZ7uzvCvK/giphy.gif",
+      "http://gallery1.anivide.com/_full/65030_1382582341.gif",
+      "https://49.media.tumblr.com/8e8a099c4eba22abd3ec0f70fd087cce/tumblr_nxovj9oY861ur1mffo1_500.gif "
+    ],
+    "%mention% cry": [
+      "http://i.imgur.com/Xg3i1Qy.gif",
+      "http://i.imgur.com/3K8DRrU.gif",
+      "http://i.imgur.com/k58BcAv.gif",
+      "http://i.imgur.com/I2fLXwo.gif"
+    ],
+    "%mention% are you real?": [
+      "I'm Lucio, in the flesh."
+    ],
+    "%mention% are you there?": [
+      "I hear you %user%. \n https://67.media.tumblr.com/b53c5a16cdee89c6295266fd0afdab50/tumblr_o74we5cRFp1spttl5o1_500.jpg",
+      "Yeah, now that you're here let's get this party started!",
+      "Yo yo yo, let's form up here."
+    ],
+    "%mention% draw": [
+      "Sorry, I don't gamble, type $draw for that function."
+    ],
+    "%mention% bb": [
+      "See you %target%"
+    ],
+    "%mention% call": [
+      "Calling %target%"
+    ],
+    "%mention% disguise": [
+      "http://vignette1.wikia.nocookie.net/overwatch/images/3/37/Azul.png/revision/latest?cb=20160602183629",
+      "http://vignette2.wikia.nocookie.net/overwatch/images/3/37/Laranja.png/revision/latest?cb=20160602183720",
+      "http://vignette1.wikia.nocookie.net/overwatch/images/d/d7/Vermelho.png/revision/latest?cb=20160602183312",
+      "http://vignette4.wikia.nocookie.net/overwatch/images/8/85/71675f5ad5ad750b0b08130d9d9ad53b.png/revision/latest?cb=20160602183828",
+      "http://vignette1.wikia.nocookie.net/overwatch/images/a/a9/Lucio_auditva.jpg/revision/latest?cb=20160209234945",
+      "http://vignette4.wikia.nocookie.net/overwatch/images/5/5c/Lucio_synaesthesia.jpg/revision/latest?cb=20160209235032",
+      "http://vignette4.wikia.nocookie.net/overwatch/images/9/94/Lucio_hiphopper.jpg/revision/latest?cb=20160323035929",
+      "http://vignette3.wikia.nocookie.net/overwatch/images/6/66/Lucio_spacefrog.jpg/revision/latest?cb=20160309013451"
+      "http://vignette3.wikia.nocookie.net/overwatch/images/6/62/Lucio_Breakaway.jpg/revision/latest?cb=20160415175505",
+      "http://vignette2.wikia.nocookie.net/overwatch/images/a/af/Lucio_Slapshot.jpg/revision/latest?cb=20160415175505",
+      "http://vignette3.wikia.nocookie.net/overwatch/images/3/36/Lucio_Olympics_Skin.jpg/revision/latest?cb=20160803170424",
+      "http://vignette3.wikia.nocookie.net/overwatch/images/5/59/Lucio_Olympics_Skin_2.jpg/revision/latest?cb=20160803170424"
+    ],
+    "%mention% inv": [
+      "To invite your bot, click on this link -> <https://discordapp.com/oauth2/authorize?client_id=%target%&scope=bot&permissions=66186303>"
+    ],
+    "%mention% threaten": [
+      "When the music hits, you'll feel no pain %target%."
+    ],
+    "%mention% archer": [
+      "http://i.imgur.com/Bha9NhL.jpg"
+    ],
+    "%mention% do you like this song?": [
+      "Oh, turn it up!",
+      "Oh, this is my jam!",
+      "Haha, amp it up.",
+      "Pump up the volume.",
+      "Raisin' the volume.",
+      "Woo, you feel that?"
+    ],
+    "%mention% dance": [
+      "http://vignette1.wikia.nocookie.net/overwatch/images/4/4f/Lucio_Dance_Emotion.gif/revision/latest?cb=20160213173354&path-prefix=de",
+      "https://thumbs.gfycat.com/ThornyUnselfishAttwatersprairiechicken-size_restricted.gif"
+    ],
+    "%mention% pixel": [
+       "https://img.ifcdn.com/images/6de47027d4995f0cc9cb96c7517211754a7db832f50a1c4fb52821d5ed9c0882_1.jpg",
+       "https://4.bp.blogspot.com/-j85PY4EGgsE/V09P4-t-RgI/AAAAAAAAHjQ/KfDR1n4ZDgM4rexJ5_T7vM33JL_ej5gogCKgB/s1600/lucio.png",
+       "http://orig08.deviantart.net/8228/f/2016/152/9/b/lucio___rpg_style_by_soy_monk-da4kp0u.gif",
+       "http://67.media.tumblr.com/7029fc76030e2b4eff65c04ce2ee8479/tumblr_inline_oa4g423pPY1qlv5j9_400.png",
+       "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13712222_1000496460069467_2086083101_n.jpg?ig_cache_key=MTMxMTk0Nzk1MjM5MDAyODQ0Mw%3D%3D.2",
+       "http://orig07.deviantart.net/66e6/f/2016/194/f/8/lucio_by_so_ro_ro-da9tke2.jpg",
+       "http://66.media.tumblr.com/8c3242ae61e1f434db2b1406fddcea09/tumblr_o7ap76ultt1ufdtcro1_400.png"
+    ],
+    "%mention% hey": [
+      "Hello hello.",
+      "Hey %user%",
+      "You made it. let's get movin'!"
+    ],
+    "%mention% hi": [
+      "Hello hello.",
+      "Hey %user%",
+      "You made it. let's get movin'!"
+    ],
+    "%mention% hello": [
+      "Hello hello.",
+      "Hey %user%",
+      "You made it. let's get movin'!"
+    ],
+    "%mention% I love you": [
+      "You're my #%rng% fan!"
+    ],
+    "%mention% joke": [
+      "http://2static.fjcdn.com/pictures/Best+support_709f1b_5972944.jpg",
+      "https://img.ifcdn.com/images/b07cfcd02731084deb462f6d343546c90d2dd2afab39b3c1f02fb0fc2ce0396c_1.jpg",
+      "https://s-media-cache-ak0.pinimg.com/564x/51/13/ae/5113aee4559ff4d775199c74909643d5.jpg",
+      "https://s-media-cache-ak0.pinimg.com/564x/45/53/0d/45530d41251d2c7f6b7c2f159bfe5119.jpg",
+      "https://s-media-cache-ak0.pinimg.com/236x/17/4d/bf/174dbf8e5ba4c213cc109c523288ef46.jpg",
+      "http://orig12.deviantart.net/e6c4/f/2016/211/0/f/20160728owhug__00_by_koch43-dabydsc.jpg",
+      "*Dad 76*: What's Zarya's real haircolor? \n*D.va*: I don't know. What? \n*Dad 76*: That is her real haircolour because heroes never dye.\n https://s-media-cache-ak0.pinimg.com/564x/8e/f4/6e/8ef46eea930a1a7a1f3d061146446e1f.jpg",
+      "https://img.ifcdn.com/images/1f8b081a3e993a4d053e92f1191284eccdc68cd6ec10e25406cb9788f0907557_1.jpg",
+      "https://img.ifcdn.com/images/a6df79849960650440ae1492d22ba8bce01e7e57de13835155032c77131602b7_1.jpg",
+      "https://img.ifcdn.com/images/054f16020779eb7d5c18e06588700c5ac28fce93c6d7a8acadce60b697a01745_1.jpg",
+      "http://images-cdn.9gag.com/photo/aYLLZrV_700b.jpg",
+      "http://i.imgur.com/9rBEmUs.png",
+      "https://i.redditmedia.com/uLk__yL3o7GU4bh4aAPvWqHYhInf30hmxxs_g5Uo1Os.jpg?w=540&s=eadda3eb393affe7b98145c7493de0a2",
+      "https://i.redditmedia.com/wZIsObu85pwoBZw7tmdW6owFEA90vdPSksgk-4sITlk.jpg?w=320&s=b62285a56fe50e3361c281ac33d2c9ed",
+      "http://i3.kym-cdn.com/photos/images/original/001/116/474/b9c.png",
+      "http://pre04.deviantart.net/d923/th/pre/f/2016/144/0/f/cat_or_dog__by_volverseloco-da3nu4y.png",
+      "https://s-media-cache-ak0.pinimg.com/236x/d7/9a/69/d79a69c8cd11d6a7fb739cb87411b254.jpg",
+      "https://img.ifcdn.com/images/f8925d9fb171a1a4ddc5f8a3d2e93fcc8257ae33bd1b4f334f77e43a0752dcd2_1.jpg"
+    ],
+    "%mention%": [
+      "https://s-media-cache-ak0.pinimg.com/originals/a9/48/f4/a948f481d72c1b2672d65943fd9e461c.gif",  
+      "https://67.media.tumblr.com/28096a9be08fbdf0615630cdbc2835b1/tumblr_o651i1y6Yd1rtukzbo2_500.gif",
+      "http://gameoverwatch.com/wp-content/uploads/2015/09/lucio.gif",
+      "https://s-media-cache-ak0.pinimg.com/originals/e1/25/b8/e125b835a63056b5c329cae37d8741d3.gif",
+      "Lucio comin' at you.",
+      "🎧🎵 Whoo! Get hyped!~ 🎶⭐",
+      "Yeah, let's party.",
+      "Hey, break times over. Let's get movin'!",
+      "I am ready to roll.",
+      "Can't stop, won't stop.",
+      "*hacker voice* Lucio checkin' in the game. 🎮"
+    ]
+  },
+  "RotatingStatuses": [],
+  "CommandPrefixes": {
+    "Administration": ".",
+    "Searches": "~",
+    "NSFW": "~",
+    "Conversations": "<@{0}>",
+    "ClashOfClans": ",",
+    "Help": "-",
+    "Music": "!!",
+    "Trello": "trello",
+    "Games": ">",
+    "Gambling": "$",
+    "Permissions": ";",
+    "Programming": "%",
+    "Pokemon": ">",
+    "Utility": "."
+  },
+  "ServerBlacklist": [],
+  "ChannelBlacklist": [],
+  "UserBlacklist": [
+    105309315895693312,
+    119174277298782216,
+    143515953525817344
+  ],
+  "_8BallResponses": [
+    "Most definitely yes",
+    "For sure",
+    "As I see it, yes",
+    "My sources say yes",
+    "Yes",
+    "Most likely",
+    "Perhaps",
+    "Maybe",
+    "Not sure",
+    "It is uncertain",
+    "Ask me again later",
+    "Don't count on it",
+    "Probably not",
+    "Very doubtful",
+    "Most likely no",
+    "Nope",
+    "No",
+    "My sources say no",
+    "Dont even think about it",
+    "Definitely no",
+    "NO - It may cause disease contraction"
+  ],
+  "CurrencySign": "🌸",
+  "CurrencyName": "NadekoFlower",
+  "DMHelpString": "Type `-h` for help.",
+  "HelpString": "You can use `{0}modules` command to see a list of all modules.\r\nYou can use `{0}commands ModuleName`\r\n(for example `{0}commands Administration`) to see a list of all of the commands in that module.\r\nFor a specific command help, use `{0}h \"Command name\"` (for example `-h \"!m q\"`)\r\n\r\n\r\n**LIST OF COMMANDS CAN BE FOUND ON THIS LINK**\r\n<https://github.com/Kwoth/NadekoBot/blob/master/commandlist.md>\r\n\r\n\r\nNadeko Support Server: <https://discord.gg/0ehQwTK2RBjAxzEY>"
+}

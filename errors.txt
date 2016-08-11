@@ -1,0 +1,13 @@
+Command: Discord.Commands.Command
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NadekoBot.Classes.Help.Commands.HelpCommand.<>c__DisplayClass0_0.<<HelpFunc>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Help\Commands\HelpCommand.cs:line 29
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Classes.Help.Commands.HelpCommand.<>c.<<HelpFunc>b__0_0>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Help\Commands\HelpCommand.cs:line 23
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
