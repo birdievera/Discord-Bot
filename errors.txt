@@ -11,3 +11,258 @@ System.NullReferenceException: Object reference not set to an instance of an obj
    at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
    at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
 -------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------
+Command: Discord.Commands.Command
+System.ArgumentNullException: Value cannot be null.
+Parameter name: s
+   at NadekoBot.Modules.Music.Classes.MusicPlayer.AddSong(Song s, String username) in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\Classes\MusicControls.cs:line 199
+   at NadekoBot.Modules.Music.MusicModule.<QueueSong>d__7.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 876
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NadekoBot.Modules.Music.MusicModule.<>c.<<Install>b__6_6>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\NadekoBot\Modules\Music\MusicModule.cs:line 108
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Discord.Commands.CommandService.<>c__DisplayClass32_0.<<Discord-IService-Install>b__1>d.MoveNext() in C:\Users\Kwoth\Source\Repos\NadekoBot\discord.net\src\Discord.Net.Commands\CommandService.cs:line 186
+-------------------------------------

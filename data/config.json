@@ -152,6 +152,7 @@
       "You made it. let's get movin'!"
     ],
     "%mention% I love you": [
+      "Thanks for being my #1 fan.",
       "You're my #%rng% fan!"
     ],
     "%mention% joke": [
