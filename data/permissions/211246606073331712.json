@@ -1,0 +1,19 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 211246606073331712,
+  "Permissions": {
+    "Name": "the gang's all here",
+    "Modules": {
+      "NSFW": true
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {},
+  "ChannelPermissions": {},
+  "RolePermissions": {},
+  "CommandCooldowns": {}
+}

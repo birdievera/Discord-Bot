@@ -8,9 +8,7 @@
     "VoiceChannelLog": {},
     "ListOfSelfAssignableRoles": [],
     "AutoAssignedRole": 0,
-    "GenerateCurrencyChannels": {
-      "211246606073331712": 2
-    },
+    "GenerateCurrencyChannels": {},
     "AutoDeleteMessagesOnCommand": false,
     "ExclusiveSelfAssignedRoles": false,
     "ObservingStreams": [],
