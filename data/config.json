@@ -43,6 +43,7 @@
       "Not too excited about this arrangement with %target%.",
       "%target% Stay outta Rio. That's my turf.",
       "%target% I'm not hearing your noise.",
+"https://66.media.tumblr.com/14c24650a6e9951a9de56864a203274f/tumblr_ob1rmqtA841rn8gqeo1_1280.jpg",	
       "Oh hey, you remember %target%? Me neither.",
       "%target% You deserve a beat..down.",
       "%target% Sorry, I can't give you the hook. I like you."
@@ -58,22 +59,27 @@
       "%target% How about we go out for pizza? It's on me.",
       "%target% Let's create music together. ;)"
     ],
-    "%mention% pat": [
-      "http://i.imgur.com/IiQwK12.gif",
-      "http://i.imgur.com/JCXj8yD.gif",
-      "http://i.imgur.com/qqBl2bm.gif",
-      "http://i.imgur.com/eOJlnwP.gif",
-      "https://45.media.tumblr.com/229ec0458891c4dcd847545c81e760a5/tumblr_mpfy232F4j1rxrpjzo1_r2_500.gif",
-      "https://media.giphy.com/media/KZQlfylo73AMU/giphy.gif",
-      "https://media.giphy.com/media/12hvLuZ7uzvCvK/giphy.gif",
-      "http://gallery1.anivide.com/_full/65030_1382582341.gif",
-      "https://49.media.tumblr.com/8e8a099c4eba22abd3ec0f70fd087cce/tumblr_nxovj9oY861ur1mffo1_500.gif "
+    "%mention% i don't feel so good.": [
+      "This is gonna make you feel better.",
+      "Let's get you healed up.",
+      "Give yourself to the rhythm.",
+      "C'mere for a hug!",
+      "I made a playlist to cheer you up!"
     ],
+
+ "%mention% do you love me?": [
+      "Love ya!",
+      "Of course I love you.",
+      "I love you.",
+      "Why don't you come a little closer so I can show you?"
+    ],
+
     "%mention% cry": [
-      "http://i.imgur.com/Xg3i1Qy.gif",
-      "http://i.imgur.com/3K8DRrU.gif",
-      "http://i.imgur.com/k58BcAv.gif",
-      "http://i.imgur.com/I2fLXwo.gif"
+      "http://66.media.tumblr.com/2cb49cbdbfde1200a42201f15d5705dd/tumblr_oao6sn8weY1qep3h6o2_500.jpg",
+      "http://67.media.tumblr.com/0d3d568729ed61510ea464df9fb75e5b/tumblr_inline_oar81qR4qr1rpqnwl_500.jpg",
+
+"https://66.media.tumblr.com/866afe755f5466352ad4b72daf2ea484/tumblr_oaya22vhOB1vopq34o1_1280.jpg",
+      "https://67.media.tumblr.com/9050dac390deae6587852f114a2faf4d/tumblr_obrn4tUn7W1vzwawwo1_1280.jpg"
     ],
     "%mention% are you real?": [
       "I'm Lucio, in the flesh."
@@ -87,10 +93,21 @@
       "Sorry, I don't gamble, type $draw for that function."
     ],
     "%mention% bb": [
-      "See you %target%"
+      "See you, %target%"
+    ],
+    "%mention% i would die for you": [
+      "I rather you stay right here with me.",
+	"Stop."
+    ],
+    "%mention% squad up": [
+      "https://67.media.tumblr.com/d1a7f47dc4e068839b30bea51b49574b/tumblr_obaqy2zKRS1vxodvzo3_500.gif"
     ],
     "%mention% call": [
-      "Calling %target%"
+      "You used it call me on your cellphone %target%"
+    ],
+    "%mention% OH SHIT": [
+      "https://67.media.tumblr.com/1138f634487230316f2397c865dd5253/tumblr_oa27p84yQ51sp60a0o1_500.gif",
+      "https://66.media.tumblr.com/5040e3477b4ba8513ad3f6a8867c3c3c/tumblr_obi6gvIYxa1r4veboo1_500.png"
     ],
     "%mention% disguise": [
       "http://vignette1.wikia.nocookie.net/overwatch/images/3/37/Azul.png/revision/latest?cb=20160602183629",
@@ -100,7 +117,7 @@
       "http://vignette1.wikia.nocookie.net/overwatch/images/a/a9/Lucio_auditva.jpg/revision/latest?cb=20160209234945",
       "http://vignette4.wikia.nocookie.net/overwatch/images/5/5c/Lucio_synaesthesia.jpg/revision/latest?cb=20160209235032",
       "http://vignette4.wikia.nocookie.net/overwatch/images/9/94/Lucio_hiphopper.jpg/revision/latest?cb=20160323035929",
-      "http://vignette3.wikia.nocookie.net/overwatch/images/6/66/Lucio_spacefrog.jpg/revision/latest?cb=20160309013451"
+      "http://vignette3.wikia.nocookie.net/overwatch/images/6/66/Lucio_spacefrog.jpg/revision/latest?cb=20160309013451",
       "http://vignette3.wikia.nocookie.net/overwatch/images/6/62/Lucio_Breakaway.jpg/revision/latest?cb=20160415175505",
       "http://vignette2.wikia.nocookie.net/overwatch/images/a/af/Lucio_Slapshot.jpg/revision/latest?cb=20160415175505",
       "http://vignette3.wikia.nocookie.net/overwatch/images/3/36/Lucio_Olympics_Skin.jpg/revision/latest?cb=20160803170424",
@@ -110,31 +127,51 @@
       "To invite your bot, click on this link -> <https://discordapp.com/oauth2/authorize?client_id=%target%&scope=bot&permissions=66186303>"
     ],
     "%mention% threaten": [
-      "When the music hits, you'll feel no pain %target%."
+      "When the music hits, you'll feel no *pain*. %target%."
+    ],
+    "%mention% GOAL!": [
+      "https://67.media.tumblr.com/bd0767d8a567f09beea08a3667927dcc/tumblr_obb695H0QS1t1j1quo5_540.gif"
     ],
     "%mention% archer": [
-      "http://i.imgur.com/Bha9NhL.jpg"
+      "http://67.media.tumblr.com/7020455066058cb1bab07d49d845c692/tumblr_o9fyd3bsV81sc2ofjo1_1280.jpg"
     ],
+    "%mention% *kisses*": [
+      "haha and then what? ;)",
+      "*blushes*",
+      "....*kisses back*",
+      "Haha! You're too cute.",
+"https://66.media.tumblr.com/9e4e72d74a42e4ff2754c53441539b96/tumblr_o8sfobuwQn1ug6qz1o1_400.gif"
+    ],
+
+ "%mention% <3": [
+      "🐸 <3",
+    ],
+
     "%mention% do you like this song?": [
       "Oh, turn it up!",
       "Oh, this is my jam!",
-      "Haha, amp it up.",
+      "Haha, amp it up!",
       "Pump up the volume.",
       "Raisin' the volume.",
       "Woo, you feel that?"
     ],
     "%mention% dance": [
-      "http://vignette1.wikia.nocookie.net/overwatch/images/4/4f/Lucio_Dance_Emotion.gif/revision/latest?cb=20160213173354&path-prefix=de",
+      "http://67.media.tumblr.com/0b7c2075b884d5ba6c4083037b7a9fa9/tumblr_o2csqsFZ6Z1qzh2aio5_400.gif",
+"https://67.media.tumblr.com/178d979093829e054909932a7c0af3c8/tumblr_oamhq8GK1D1sknpfyo1_540.gif",
+"https://66.media.tumblr.com/f7f167ea8d99d1e48c8c389123e1ab4b/tumblr_o8ljsgksCV1ql1q95o3_r1_250.gif",
+"https://67.media.tumblr.com/0233fc2be2e9f2976c58621b46a8e733/tumblr_o8lm9nH2K61s8o4aqo1_540.gif",
       "https://thumbs.gfycat.com/ThornyUnselfishAttwatersprairiechicken-size_restricted.gif"
     ],
     "%mention% pixel": [
-       "https://img.ifcdn.com/images/6de47027d4995f0cc9cb96c7517211754a7db832f50a1c4fb52821d5ed9c0882_1.jpg",
-       "https://4.bp.blogspot.com/-j85PY4EGgsE/V09P4-t-RgI/AAAAAAAAHjQ/KfDR1n4ZDgM4rexJ5_T7vM33JL_ej5gogCKgB/s1600/lucio.png",
-       "http://orig08.deviantart.net/8228/f/2016/152/9/b/lucio___rpg_style_by_soy_monk-da4kp0u.gif",
-       "http://67.media.tumblr.com/7029fc76030e2b4eff65c04ce2ee8479/tumblr_inline_oa4g423pPY1qlv5j9_400.png",
-       "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13712222_1000496460069467_2086083101_n.jpg?ig_cache_key=MTMxMTk0Nzk1MjM5MDAyODQ0Mw%3D%3D.2",
-       "http://orig07.deviantart.net/66e6/f/2016/194/f/8/lucio_by_so_ro_ro-da9tke2.jpg",
-       "http://66.media.tumblr.com/8c3242ae61e1f434db2b1406fddcea09/tumblr_o7ap76ultt1ufdtcro1_400.png"
+      "https://img.ifcdn.com/images/6de47027d4995f0cc9cb96c7517211754a7db832f50a1c4fb52821d5ed9c0882_1.jpg",
+      "https://4.bp.blogspot.com/-j85PY4EGgsE/V09P4-t-RgI/AAAAAAAAHjQ/KfDR1n4ZDgM4rexJ5_T7vM33JL_ej5gogCKgB/s1600/lucio.png",
+      "http://orig08.deviantart.net/8228/f/2016/152/9/b/lucio___rpg_style_by_soy_monk-da4kp0u.gif",
+
+"https://66.media.tumblr.com/93a2723de4097f40dbc8a523ed352b1f/tumblr_oaq0byba2I1rm8k4oo1_r1_500.gif",
+      "http://67.media.tumblr.com/7029fc76030e2b4eff65c04ce2ee8479/tumblr_inline_oa4g423pPY1qlv5j9_400.png",
+      "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/13712222_1000496460069467_2086083101_n.jpg?ig_cache_key=MTMxMTk0Nzk1MjM5MDAyODQ0Mw%3D%3D.2",
+      "http://orig07.deviantart.net/66e6/f/2016/194/f/8/lucio_by_so_ro_ro-da9tke2.jpg",
+      "http://66.media.tumblr.com/8c3242ae61e1f434db2b1406fddcea09/tumblr_o7ap76ultt1ufdtcro1_400.png"
     ],
     "%mention% hey": [
       "Hello hello.",
@@ -151,8 +188,11 @@
       "Hey %user%",
       "You made it. let's get movin'!"
     ],
-    "%mention% I love you": [
+    "%mention% I love you.": [
       "Thanks for being my #1 fan.",
+"https://66.media.tumblr.com/c2d2f6d44fe09af52e01a2593f40a7c6/tumblr_o9pi0vBC2E1ur8g6io2_1280.png",
+	"I love you too.",
+	"I love ya more!",
       "You're my #%rng% fan!"
     ],
     "%mention% joke": [
@@ -161,13 +201,21 @@
       "https://s-media-cache-ak0.pinimg.com/564x/51/13/ae/5113aee4559ff4d775199c74909643d5.jpg",
       "https://s-media-cache-ak0.pinimg.com/564x/45/53/0d/45530d41251d2c7f6b7c2f159bfe5119.jpg",
       "https://s-media-cache-ak0.pinimg.com/236x/17/4d/bf/174dbf8e5ba4c213cc109c523288ef46.jpg",
-      "http://orig12.deviantart.net/e6c4/f/2016/211/0/f/20160728owhug__00_by_koch43-dabydsc.jpg",
+"https://66.media.tumblr.com/522a31e40638a8fc538bc6292767a075/tumblr_o8sqv2XYIU1tfn9fuo1_1280.png",
+"https://67.media.tumblr.com/b869c2570312c05509c1617c187ba8f1/tumblr_inline_o99ns0X8tv1u9gnkr_540.png","http://orig12.deviantart.net/e6c4/f/2016/211/0/f/20160728owhug__00_by_koch43-dabydsc.jpg",
       "*Dad 76*: What's Zarya's real haircolor? \n*D.va*: I don't know. What? \n*Dad 76*: That is her real haircolour because heroes never dye.\n https://s-media-cache-ak0.pinimg.com/564x/8e/f4/6e/8ef46eea930a1a7a1f3d061146446e1f.jpg",
+      "What’s my favorite sandwich? Peanut butter and JAM. ",
+      "https://66.media.tumblr.com/5addaf1e0d7be126ce7db098f11ceb2e/tumblr_o9bmtdry4A1tfn9fuo3_r1_1280.png","https://img.ifcdn.com/images/a737d64078d9dfc6f7a1f08672aab699af4665d67747487d405f87a9b473f629_1.jpg",
+      "https://img.ifcdn.com/images/60f0271eb8c1249bd8af5be211df5791dcecf7720a4bb7930582ac9494e9426a_1.jpg",
       "https://img.ifcdn.com/images/1f8b081a3e993a4d053e92f1191284eccdc68cd6ec10e25406cb9788f0907557_1.jpg",
       "https://img.ifcdn.com/images/a6df79849960650440ae1492d22ba8bce01e7e57de13835155032c77131602b7_1.jpg",
       "https://img.ifcdn.com/images/054f16020779eb7d5c18e06588700c5ac28fce93c6d7a8acadce60b697a01745_1.jpg",
+      "https://67.media.tumblr.com/49bb3a83dd076cb75e5ca098087e6b7d/tumblr_o9yhisi61f1qgtv0jo1_500.png",
+      "https://66.media.tumblr.com/2a233830dc5bf478884a0b21ba94f24b/tumblr_ob8aq2wKVK1vbosebo1_500.jpg",
+      "https://66.media.tumblr.com/ce630a15bdcb6af4e79b8f8d6dac1476/tumblr_obctmq26H41vyae1po4_540.png",
       "http://images-cdn.9gag.com/photo/aYLLZrV_700b.jpg",
       "http://i.imgur.com/9rBEmUs.png",
+      "https://img.ifcdn.com/images/d48db2c067ada537e2fb52d989ababe602c5c4730261b43333c685aef0cadfbd_1.jpg",
       "https://i.redditmedia.com/uLk__yL3o7GU4bh4aAPvWqHYhInf30hmxxs_g5Uo1Os.jpg?w=540&s=eadda3eb393affe7b98145c7493de0a2",
       "https://i.redditmedia.com/wZIsObu85pwoBZw7tmdW6owFEA90vdPSksgk-4sITlk.jpg?w=320&s=b62285a56fe50e3361c281ac33d2c9ed",
       "http://i3.kym-cdn.com/photos/images/original/001/116/474/b9c.png",
@@ -176,10 +224,12 @@
       "https://img.ifcdn.com/images/f8925d9fb171a1a4ddc5f8a3d2e93fcc8257ae33bd1b4f334f77e43a0752dcd2_1.jpg"
     ],
     "%mention%": [
-      "https://s-media-cache-ak0.pinimg.com/originals/a9/48/f4/a948f481d72c1b2672d65943fd9e461c.gif",  
-      "https://67.media.tumblr.com/28096a9be08fbdf0615630cdbc2835b1/tumblr_o651i1y6Yd1rtukzbo2_500.gif",
+      "https://s-media-cache-ak0.pinimg.com/originals/a9/48/f4/a948f481d72c1b2672d65943fd9e461c.gif",
+"https://67.media.tumblr.com/8243a63f0fd32a67cafa6abae6aa4df3/tumblr_obrqg25Rsf1rtukzbo4_400.gif","https://67.media.tumblr.com/28096a9be08fbdf0615630cdbc2835b1/tumblr_o651i1y6Yd1rtukzbo2_500.gif",
       "http://gameoverwatch.com/wp-content/uploads/2015/09/lucio.gif",
+"https://67.media.tumblr.com/fec81b61c196952ed14f23cc2d26e18d/tumblr_ob8sknZriR1rb6ve3o1_r2_1280.gif",
       "https://s-media-cache-ak0.pinimg.com/originals/e1/25/b8/e125b835a63056b5c329cae37d8741d3.gif",
+"https://66.media.tumblr.com/9d633bb71deb81d45f63bfa91e27a4c3/tumblr_o8d3uszYo81qbqjnzo1_500.gif",
       "Lucio comin' at you.",
       "🎧🎵 Whoo! Get hyped!~ 🎶⭐",
       "Yeah, let's party.",
@@ -187,6 +237,14 @@
       "I am ready to roll.",
       "Can't stop, won't stop.",
       "*hacker voice* Lucio checkin' in the game. 🎮"
+    ],
+
+  "%mention% you're lookin' good today.": [
+    "https://67.media.tumblr.com/e4238937c04f2b6a5d9baa58aaf10527/tumblr_ob60jeLMgf1v2o62so1_540.jpg",
+    "https://66.media.tumblr.com/fd4fc6cc1f053aecce1a05f0a8e5f287/tumblr_oaae5n4DcS1ufq4oao1_500.png",
+    "https://66.media.tumblr.com/79fd28233ae40344b4a816ee40cc1bed/tumblr_oa4b2jCAwB1rj5v1wo1_500.png",
+
+"https://67.media.tumblr.com/e76ca6803a6bc8f2d45f69e9cfc594a9/tumblr_oaaxzie5b81roo2zlo1_500.png"
     ]
   },
   "RotatingStatuses": [],
